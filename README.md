@@ -1,2 +1,2 @@
-# Python-for-Data-Science
+# Python for Data Science
 This repository will have all the assignments of the class.
